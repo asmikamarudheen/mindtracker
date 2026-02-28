@@ -49,7 +49,7 @@ List the key features of your project:
 - Feature 1: [5-question stress assessment survey]
 - Feature 2: [Instant stress score calculation]
 - Feature 3: [tress level classification (Low / Moderate / High)]
-- Feature 4: []
+  
 
 ---
 
