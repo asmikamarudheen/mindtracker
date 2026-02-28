@@ -40,7 +40,7 @@ pyzmq==27.0.0
 six==1.17.0
 stack-data==0.6.3
 sympy==1.13.1
-torch @ file:///C:/Users/aadil/Downloads/torch-2.5.1%2Bcu121-cp311-cp311-win_amd64.whl#sha256=4bcee18f00c43c815efad8efaa3bca584ffdc8d2cd35ef4c44c814f2739d9191
+torch 
 tornado==6.5.1
 traitlets==5.14.3
 wcwidth==0.2.13
