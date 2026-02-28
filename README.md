@@ -5,7 +5,7 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [MindTracker] 🎯
+# MindTracker 🎯
 
 ## Basic Details
 
@@ -22,10 +22,10 @@
 [MindTracker is a web-based stress assessment tool that uses a 5-question survey to calculate and display a user's stress score instantly.]
 
 ### The Problem statement
-[]
+[In today’s fast-paced lifestyle, especially among students and working professionals, stress often goes unnoticed until it becomes severe. Many people do not have access to immediate mental health screening tools.]
 
 ### The Solution
-[How are you solving it?]
+[MindTracker provides a quick 5-question survey that evaluates a user’s current mental state and calculates a stress score instantly.]
 
 ---
 
@@ -34,17 +34,14 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [e.g. Python,HTML,CSS]
+- Frameworks used: [e.g.,Flask]
+- Libraries used: [e.g.,Flask]
+- Tools used: [e.g., VS Code, Git,GitHub]
 
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
 
----
+
+
 
 ## Features
 
